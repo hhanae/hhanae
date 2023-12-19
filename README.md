@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**hhanae/hhanae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <br>
+  Hi there 👋, I am HANIM Hanae
+  <br>
+</h1>
 
-Here are some ideas to get you started:
+<h4 align="center">Computer Engineering Student, passionate about development and its challenges.</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently Engineering student in the 5th year of the Computer Engineering and Emerging Technologies program, at ENSAJ. 
+- 🤔 I’m currently seeking an internship (end-of-studies project) in Software Engineering
+- 😄 If you want to know more about me, check my portfolio: https://hanim-hanae.vercel.app/
+- 📫 You can reach me on LinkedIn : https://www.linkedin.com/in/hanae-hanim-53a45a186/
+
