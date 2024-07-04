@@ -8,7 +8,7 @@
 
 <h4 align="center">Software Engineer</h4>
 
-- 🌱 I’m currently Engineering student in the 5th year of the Computer Engineering and Emerging Technologies program, at ENSAJ. 
+- 🌱 I’m currently a Software Engineer. 
 - 😄 If you want to know more about me, check my portfolio: https://hanim-hanae.vercel.app/
 - 📫 You can reach me on LinkedIn : https://www.linkedin.com/in/hanae-hanim-53a45a186/
 
